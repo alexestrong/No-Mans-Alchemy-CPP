@@ -1,0 +1,354 @@
+./proj2
+N   N OOO   M   M  AA  N   N '' SSS    AA  L   CCC H  H EEE M   M Y   Y
+NN  N O O   MM MM A  A NN  N    S     A  A L   C   H  H E   MM MM  Y Y 
+N N N O O   M M M AAAA N N N    SSS   AAAA L   C   HHHH EEE M M M   Y  
+N  NN O O   M   M A  A N  NN      S   A  A L   C   H  H E   M   M   Y  
+N   N OOO   M   M A  A N   N    SSS   A  A LLL CCC H  H EEE M   M   Y  
+61 materials loaded.
+What is the name of your Ship?
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Kelp Sac Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Copper Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Tritium Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Solanium Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Carbon Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Oxygen Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Chlorine Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Glass Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Copper Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Mordite Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Ferrite Dust Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Acid Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Indium Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Frost Crystal Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Indium Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Glass Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Chlorine Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Chlorine Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Gamma Root Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Glass Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Oxygen Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Sulphurine Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Sulphurine Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Acid Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Cadmium Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Gamma Root Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Carbon Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Ferrite Dust Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Star Bulb Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Which materials would you like to merge?
+To list known materials enter -1
+Which materials would you like to merge?
+To list known materials enter -1
+Ferrite Dust combined with Ferrite Dust to make Pure Ferrite!
+You have built Pure Ferrite for your ship.
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+1. Acid 2
+2. Cactus Flesh 0
+3. Cadmium 1
+4. Carbon 2
+5. Chlorine 3
+6. Cobalt 0
+7. Copper 2
+8. Faecium 0
+9. Ferrite Dust 0
+10. Frost Crystal 1
+11. Gamma Root 2
+12. Glass 3
+13. Indium 2
+14. Kelp Sac 1
+15. Mordite 1
+16. Oxygen 2
+17. Phosphorus 0
+18. Pugneum 0
+19. Radon 0
+20. Solanium 1
+21. Star Bulb 1
+22. Sulphurine 2
+23. Tritium 1
+24. Aronium 0
+25. Carbon Crystal 0
+26. Chromatic Metal 0
+27. Circuit Board 0
+28. Condensed Carbon 0
+29. Cryogenic Chamber 0
+30. Cryo-Pump 0
+31. Destabilized Sodium 0
+32. Dioxite 0
+33. Enriched Carbon 0
+34. Fusion Accelerant 0
+35. Gold 0
+36. Grantine 0
+37. Heat Capicitor 0
+38. Holographic Analyser 0
+39. Hot Ice 0
+40. Ionised Cobalt 0
+41. Lemmium 0
+42. Liquid Explosive 0
+43. Living Glass 0
+44. Lubricant 0
+45. Magnetised Ferrite 0
+46. Nitrogen Salt 0
+47. Organic Crystal 0
+48. Paraffinium 0
+49. Poly Fibre 0
+50. Portable Reactor 0
+51. Pure Ferrite 1
+52. Quantum Processor 0
+53. Rare Metal Element 0
+54. Semiconductor 0
+55. Silver 0
+56. Sodium Nitrate 0
+57. Superconducter 0
+58. Superoxide Crystal 0
+59. Thermic Condensate 0
+60. Unstable Gel 0
+61. Uranium 0
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+***The Ship***
+The Great Ship JD
+Ship Rank: D
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Copper Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Carbon Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Ferrite Dust Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Solanium Found!
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Which materials would you like to merge?
+To list known materials enter -1
+Which materials would you like to merge?
+To list known materials enter -1
+Nothing happened when you tried to combine Ferrite Dust and Acid
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+***The Ship***
+The Great Ship JD
+Ship Rank: D
+What would you like to do?
+1. Display your Ship's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Thanks for playing No Man's Alchemy

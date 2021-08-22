@@ -1,0 +1,62 @@
+Acid,raw,0,0
+Cactus Flesh,raw,0,0
+Cadmium,raw,0,0
+Carbon,raw,0,0
+Chlorine,raw,0,0
+Cobalt,raw,0,0
+Copper,raw,0,0
+Faecium,raw,0,0
+Ferrite Dust,raw,0,0
+Frost Crystal,raw,0,0
+Gamma Root,raw,0,0
+Glass,raw,0,0
+Indium,raw,0,0
+Kelp Sac,raw,0,0
+Mordite,raw,0,0
+Nitrogen,raw,0,0
+Oxygen,raw,0,0
+Phosphorus,raw,0,0
+Pugneum,raw,0,0
+Radon,raw,0,0
+Solanium,raw,0,0
+Star Bulb,raw,0,0
+Sulphurine,raw,0,0
+Tritium,raw,0,0
+Aronium,common,Paraffinium,Ionised Cobalt
+Carbon Crystal,uncommon,Carbon,Condensed Carbon
+Chromatic Metal,common,Pure Ferrite,Copper
+Circuit Board,uncommon,Heat Capicitor,Poly Fibre
+Condensed Carbon,common,Carbon,Oxygen
+Cryogenic Chamber,unique,Living Glass,Cryo-Pump
+Cryo-Pump,uncommon,Hot Ice,Thermic Condensate
+Destabilized Sodium,common,Sodium,Sodium Nitrate
+Dioxite,common,Condensed Carbon,Sodium Nitrate
+Enriched Carbon,common,Radon,Condensed Carbon
+Fusion Accelerant,unique,Organic Crystal,Nitrogen Salt
+Gold,uncommon,Mordite,Pugneum
+Grantine,common,Ionised Cobalt,Dioxite
+Heat Capicitor,uncommon,Frost Crystal,Solanium
+Holographic Analyser,common,Oxygen Filter,Gold
+Hot Ice,uncommon,Nitrogen Salt,Enriched Carbon
+Ionised Cobalt,common,Cobalt,Oxygen
+Lemmium,common,Uranium,Pure Ferrite
+Liquid Explosive,uncommon,Acid ,Unstable Gel
+Living Glass,uncommon,Lubricant,Glass
+Lubricant,common,Faecium,Gamma Root
+Magnetised Ferrite,common,Pure Ferrite,Condensed Carbon
+Nitrogen Salt,common,Nitrogen,Condensed Carbon
+Organic Crystal,uncommon,Thermic Condensate,Enriched Carbon
+Paraffinium,common,Sulphurine,Pure Ferrite
+Poly Fibre,common,Cactus Flesh,Star Bulb
+Portable Reactor,unique,Liquid Explosive,Fusion Accelerant
+Pure Ferrite,common,Ferrite Dust,Ferrite Dust
+Quantum Processor,unique,Circuit Board,Superconductor
+Rare Metal Element,common,Magnetised Ferrite,Oxygen
+Semiconductor,uncommon,Thermic Condensate,Nitrogen Salt
+Silver,common,Aronium,Star Bulb
+Sodium Nitrate,common,Sodium,Faecium
+Superconducter,unique,Enriched Carbon,Semiconductor
+Superoxide Crystal,common,Oxygen,Tritium
+Thermic Condensate,common,Sulphurine,Condensed Carbon
+Unstable Gel,common,Cactus Flesh,Acid
+Uranium,common,Radon,Pure Ferrite

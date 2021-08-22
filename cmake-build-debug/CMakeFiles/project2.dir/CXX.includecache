@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alexe/CLionProjects/project2/Game.cpp
+Game.h
+C:/Users/alexe/CLionProjects/project2/Game.h
+
+C:/Users/alexe/CLionProjects/project2/Game.h
+fstream
+-
+Material.h
+C:/Users/alexe/CLionProjects/project2/Material.h
+Ship.h
+C:/Users/alexe/CLionProjects/project2/Ship.h
+
+C:/Users/alexe/CLionProjects/project2/Material.h
+string
+-
+iostream
+-
+cstdlib
+-
+
+C:/Users/alexe/CLionProjects/project2/Ship.cpp
+Ship.h
+C:/Users/alexe/CLionProjects/project2/Ship.h
+
+C:/Users/alexe/CLionProjects/project2/Ship.h
+Material.h
+C:/Users/alexe/CLionProjects/project2/Material.h
+iostream
+-
+string
+-
+cstdlib
+-
+iomanip
+-
+
